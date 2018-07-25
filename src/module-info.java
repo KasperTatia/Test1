@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kasper
+ *
+ */
+module MyProject {
+}
